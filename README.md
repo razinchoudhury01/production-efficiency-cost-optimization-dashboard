@@ -70,8 +70,17 @@ The following KPIs were calculated and analyzed:
 
 ## Dashboard Preview
 
+### Power BI Dashboard
+
 ![Power BI Dashboard](images/powerbi-dashboard.png)
 
+### Excel Dashboard
+
+![Excel Dashboard](images/excel-dashboard.png)
+
+### Executive Report
+
+![Executive Report](images/executive-report.png)
 ## Key Findings
 
 - Line 2 was identified as the weakest production line, with the lowest average production efficiency, highest average downtime, and lowest total profit.
@@ -96,3 +105,16 @@ Formula used:
 ```text
 Estimated Recovered Profit =
 Recoverable Minutes × Avg Good Units per Operating Minute × Avg Profit per Good Unit × Number of Shifts
+
+**## Project Files**
+
+This repository includes:
+
+- Excel workbook with raw data, KPI calculations, PivotTables, Excel dashboard, savings model, and executive report
+- Power BI dashboard file
+- Dashboard screenshots
+- KPI definitions and business analysis summary
+
+**## Business Recommendation**
+
+Line 2 should be prioritized for operational improvement because it has the lowest efficiency, highest downtime, and lowest total profit. The first improvement focus should be Line 2 Night shift downtime reduction. Product B should also be reviewed for quality improvement due to its higher defect rate.
