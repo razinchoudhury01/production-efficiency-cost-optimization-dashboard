@@ -73,15 +73,15 @@ The following KPIs were calculated and analyzed:
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](images/powerbi-dashboard.png)
+![Power BI Dashboard](images/powerbi-dashboard.jpeg)
 
 ### Excel Dashboard
 
-![Excel Dashboard](images/excel-dashboard.png)
+![Excel Dashboard](images/excel-dashboard.jpeg)
 
 ### Executive Report
 
-![Executive Report](images/executive-report.png)
+![Executive Report](images/executive-report.jpeg)
 
 ## Key Findings
 
